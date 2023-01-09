@@ -3,6 +3,11 @@ using namespace std;
 using namespace my;
 //-------------------------------------------------
 int main()
+//
+// 
+//Киселев Андрей Евгеньевич поток 28 группа РРБО-02-19
+//
+//
 {
 	console_menu* main_menu = new console_menu("main_menu");
 
